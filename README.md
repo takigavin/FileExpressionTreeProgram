@@ -3,6 +3,7 @@ FileExpressionTreeProgram: Builds expression trees from user input or a given fi
 
 ## AUTHOR
 Gavin Horner
+
 gavinhorner0@gmail.com
 
 ## USAGE

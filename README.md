@@ -31,5 +31,3 @@ It is especially helpful when providing a file of post-fix expressions as it wil
 
 Classes consist of:
 - FileExpressionTreeProgram
-
-Sidenote: I would definitely split this program into more classes if given the time to, however I am focused more on continuing to learn and hopefully create more valuable projects!
